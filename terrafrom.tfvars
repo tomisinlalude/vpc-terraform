@@ -1,0 +1,5 @@
+region = "europe-west2"
+gcp_project = "sca-cloud-school"
+credentials = "credentials.json"
+name = "terraform"
+subnet_cidr = "10.10.0.0/24"
